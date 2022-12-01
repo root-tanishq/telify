@@ -18,14 +18,21 @@ I created this basic script for using in automation and to recieve notifications
 - Search for BotFather on telegram search and type `/start` command to start creating bots
 > Telify uses botapi to interact with telegram . So we need to create a telegram bot
 - Step 1 > Type `/newbot` command to create a newbot
+
 ![1](images/1.png)<br />
 - Step 2 > Now you need to provide a *display name* and *username* for bot
 > Display Name
+
+
 ![2](images/2.png)<br />
 > Username
+
+
 ![3](images/3.png)<br />
 > Copy the *HTTP API* Token we will use it with `telify`
 - Step 3 > Create a Telegram Channel and add bot as a *member*
+
+
 ![4](images/4.png)<br />
 
 <h3><b>Installation</b></h3><br/>
